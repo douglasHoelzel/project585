@@ -1,4 +1,4 @@
-/* Important: Carolina Blue is: #99badd */
+ /* Important: Carolina Blue is: #99badd */
 /*            Dark Blue is: #054e9c     */
 body {
     background-image: url("images/background_image1.png");
@@ -43,7 +43,7 @@ body {
     margin-left: 1225px;
 }
 #uncImageSVG{
-    margin-left: 100px;
+    margin-left: 900px;
     margin-top: 10px;
     height: 80px;
     width: 300px;
@@ -55,7 +55,7 @@ body {
     border-radius: 8px 8px 8px 8px;
     position: absolute;
     margin-top: 20px;
-    margin-left: 930px;
+    margin-left: 25px;
 }
 /* Navbar Styling */
 .navbar {
