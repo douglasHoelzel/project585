@@ -238,14 +238,19 @@ fieldset[disabled] .emailEveryoneButton.active {
   border-color: #FFFFFF;
 }
 
-.emailEveryoneButton .badge {
-  color: #DEDEDE;
-  background-color: #ffffff;
-}
-#clientButton{
-    width: 130px;
+#emailAllTeamButton{
+    width: 150px;
     height: 40px;
     font-size: .9em;
-    margin-top: 200px;
+    margin-top: 160px;
     margin-left: 520px;
+    font-family: 'Comfortaa', cursive;
+}
+#clientButton{
+    width: 150px;
+    height: 40px;
+    font-size: .9em;
+    margin-top: 20px;
+    margin-left: 520px;
+    font-family: 'Comfortaa', cursive;
 }
