@@ -241,3 +241,10 @@ fieldset[disabled] .emailEveryoneButton.active {
   color: #DEDEDE;
   background-color: #ffffff;
 }
+#clientButton{
+    width: 130px;
+    height: 40px;
+    font-size: .9em;
+    margin-top: 200px;
+    margin-left: 520px;
+}
