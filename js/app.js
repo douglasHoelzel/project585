@@ -14,9 +14,9 @@ app.config(function($routeProvider) {
     })
     .when("/teamRules", {
         templateUrl : "teamRules.html"
-    }),
+    })
     .when("/conceptDocment", {
-        templateUrl : "conceptDocment.html"
+        templateUrl : "conceptDocument.html"
     })
     .when("/home", {
         templateUrl : "home.html"
