@@ -182,11 +182,6 @@ body {
      height: 770px;
      width: 850px;
  }
- #projectDetails{
-     margin-top: 20px;
-     margin-left: 150px;
-     width: 900px;
- }
  #googleCalendar{
      margin-left: 200px;
  }
@@ -253,4 +248,14 @@ fieldset[disabled] .emailEveryoneButton.active {
     margin-top: 20px;
     margin-left: 520px;
     font-family: 'Comfortaa', cursive;
+}
+#iphoneMockupImage{
+    height: 700px;
+    width: 700px;
+    margin-left: 200px;
+}
+#projectDetails{
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 900px;
 }
