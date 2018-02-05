@@ -18,6 +18,15 @@ app.config(function($routeProvider) {
     .when("/conceptDocment", {
         templateUrl : "conceptDocument.html"
     })
+    .when("/requirements", {
+        templateUrl : "requirements.html"
+    })
+    .when("/softwareDesign", {
+        templateUrl : "softwareDesign.html"
+    })
+    .when("/userManual", {
+        templateUrl : "userManual.html"
+    })
     .when("/home", {
         templateUrl : "home.html"
     });
